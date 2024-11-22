@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monujaat18
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in ... learning new things 
+- 🌱 I’m currently learning web development + java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me on linkdin www.linkedin.com/in/monu-bhyan-
 - 😄 Pronouns: MONU
